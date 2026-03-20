@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá!! 👋🏾
+# Me chamo Igor Oliveira Gregório
+# Desenvolvedor em formação | Python · IA · JavaScript
 
-<!--
-**IgorOliveiraGregorio/IgorOliveiraGregorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Presidente Prudente, São Paulo, Brasil · Informações de contato: 18 99145-4050
 
-Here are some ideas to get you started:
+# SOBRE MIM
+Estudante de tecnologia com 16 anos, apaixonado por desenvolvimento de software e inovação. Atualmente cursando Python com Inteligência Artificial e JavaScript no SENAI, com foco em construir uma base técnica sólida para atuar no mercado de desenvolvimento. Movido pela curiosidade e pelo aprendizado contínuo, busco sempre novos desafios que me permitam evoluir como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# FORMAÇÃO ACADÊMICA
+SENAI — Serviço Nacional de Aprendizagem Industrial
+Curso Técnico em Desenvolvimento de Software  |  2024 – Em andamento
+•  Python com Inteligência Artificial
+•  JavaScript (desenvolvimento web)
+
+# HABILIDADES TÉCNICAS
+Linguagens & Tecnologias
+•  Python — lógica de programação, automações, introdução a IA
+•  JavaScript — manipulação do DOM, lógica de front-end
+•  Fundamentos de Inteligência Artificial e Machine Learning
+Ferramentas & Ambiente
+•  Git e GitHub — controle de versão
+•  Visual Studio Code
+•  Ambiente Linux / Terminal
+
+# COMPETÊNCIAS COMPORTAMENTAIS
+
+•  Aprendizado rápido e autodidata
+•  Curiosidade e proatividade
+•  Comprometimento com prazos e metas
+•  Boa comunicação e trabalho em equipe
+
+# IDIOMAS
+Português: Nativo  |  Inglês: Intermediário (Leitura Avançada e Fala intermediária)
