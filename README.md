@@ -1,4 +1,5 @@
 Olá!! 👋🏾
+
 Me chamo Igor Oliveira Gregório
 Desenvolvedor em formação | Python · IA · JavaScript
 
