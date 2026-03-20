@@ -1,6 +1,7 @@
 Olá!! 👋🏾
 
 Me chamo Igor Oliveira Gregório
+
 Desenvolvedor em formação | Python · IA · JavaScript
 
 Presidente Prudente, São Paulo, Brasil · Informações de contato: 18 99145-4050
@@ -25,10 +26,9 @@ Linguagens & Tecnologias
 Ferramentas & Ambiente
 •  Git e GitHub — controle de versão
 •  Visual Studio Code
-•  Ambiente Linux / Terminal
+•  Ambiente Terminal
 
 COMPETÊNCIAS COMPORTAMENTAIS
-
 
 •  Aprendizado rápido e autodidata
 •  Curiosidade e proatividade
