@@ -2,7 +2,11 @@ Olá!! 👋🏾
 
 Me chamo Igor Oliveira Gregório
 
-Desenvolvedor em formação | Python · IA · JavaScript
+Desenvolvedor em formação | Python · IA · JavaScript 
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          =
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 Presidente Prudente, São Paulo, Brasil · Informações de contato: 18 99145-4050
 
