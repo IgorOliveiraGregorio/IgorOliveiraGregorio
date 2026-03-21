@@ -28,7 +28,7 @@ Linguagens & Tecnologias
 Ferramentas & Ambiente
 •  Git e GitHub — controle de versão
 •  Visual Studio Code
-•  Ambiente Terminal
+•  Ambiente Terminal e Linux
 
 COMPETÊNCIAS COMPORTAMENTAIS
 
