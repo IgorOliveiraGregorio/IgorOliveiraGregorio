@@ -10,7 +10,7 @@ Presidente Prudente, São Paulo, Brasil · Informações de contato: 18 99145-40
 
 SOBRE MIM
 
-Estudante de tecnologia com 16 anos, apaixonado por desenvolvimento de software e inovação. Atualmente cursando Python com Inteligência Artificial, Machine Learn e JavaScript no SENAI, com foco em construir uma base técnica sólida para atuar no mercado de desenvolvimento. Movido pela curiosidade e pelo aprendizado contínuo, busco sempre novos desafios que me permitam evoluir como desenvolvedor.
+Estudante de tecnologia com 16 anos, entusiasta por desenvolvimento de software e inovação. Atualmente cursando Python com Inteligência Artificial, Machine Learn e JavaScript no SENAI, com foco em construir uma base técnica sólida para atuar no mercado de desenvolvimento. Movido pela curiosidade e pelo aprendizado contínuo, busco sempre novos desafios que me permitam evoluir como desenvolvedor.
 
 FORMAÇÃO ACADÊMICA
 
