@@ -6,18 +6,18 @@ Desenvolvedor em formação | Python · JavaScript
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>
 
-São Paulo, Brazil / igoroliveiragregorio@gmail.com
+São Paulo, Brasil / igoroliveiragregorio@gmail.com
 
 SOBRE MIM
 
-Estudante de tecnologia com 16 anos, entusiasta por desenvolvimento de software e inovação. Atualmente finalizei cursos de Python com Inteligência Artificial, Machine Learn e atualmente cursando Desenvolvimento de Sistemas no SENAI, com foco em construir uma base técnica sólida para atuar no mercado de desenvolvimento. Movido pela curiosidade e pelo aprendizado contínuo, busco sempre novos desafios que me permitam evoluir como desenvolvedor.
+Estudante de tecnologia com 16 anos, entusiasta por desenvolvimento de software e inovação. Atualmente finalizei cursos de Python com Inteligência Artificial, Machine Learn e atualmente cursando Desenvolvimento de Sistemas no SENAI, tendo como principal linguagem o JavaScript, com foco em construir uma base técnica sólida para atuar no mercado de desenvolvimento. Movido pela curiosidade e pelo aprendizado contínuo, busco sempre novos desafios que me permitam evoluir como desenvolvedor.
 
 FORMAÇÃO ACADÊMICA
 
 SENAI — Serviço Nacional de Aprendizagem Industrial
 Curso Técnico em Desenvolvimento de Software  |  2026 – Em andamento
 •  Python com Inteligência Artificial
-•  JavaScript (desenvolvimento web)
+•  JavaScript
 
 HABILIDADES TÉCNICAS
 
@@ -32,7 +32,7 @@ Ferramentas & Ambiente
 
 COMPETÊNCIAS COMPORTAMENTAIS
 
-•  Aprendizado rápido e autodidata
+•  Aprendizado rápido
 •  Curiosidade e proatividade
 •  Comprometimento com prazos e metas
 •  Boa comunicação e trabalho em equipe
